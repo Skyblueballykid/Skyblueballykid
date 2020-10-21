@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=Skyblueballykid&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyblueballykid&exclude_repo=cs519&hide=PLpgSQL,jupyter%20notebook&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Skyblueballykid&count_private=true&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyblueballykid&exclude_repo=cs519&hide=PLpgSQL,jupyter%20notebook&layout=compact&show_icons=true&theme=radical)
